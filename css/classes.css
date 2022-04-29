@@ -1,0 +1,43 @@
+.container{
+    max-width:1110px ;
+    margin:0 auto ;
+}
+.section__title{
+    font-family: 'Playfair Display';
+    color: #D4C17F;
+    font-size: 36px;
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.form__input{
+    background: #FFFFFF;
+opacity: 0.2;
+width: 255px;
+height: 50px;
+text-align: center;
+border: none;
+margin-bottom: 35px;
+margin: 0 15px 0 15px;
+
+}
+.form__warning{
+    width: 255px;
+    font-size: 13px;
+    margin: 0 15px 0 15px;
+    text-align: center;
+}
+.form__btn{
+    background: #D4C17F;
+    width: 255px;
+height: 50px;
+font-weight: 700;
+font-style: 16px;
+color: #FFFFFF;
+border: none;
+margin: 0 15px 0 15px;
+
+}

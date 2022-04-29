@@ -1,0 +1,24 @@
+.footer__list{
+    font-family: 'Raleway';
+    list-style: none;
+    font-size: 14px;
+    margin-top: 60px;
+}
+.footer__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.footer{
+    background:url(../img/footer/footer-bottom.png);
+    margin-top: 180px;
+    height: 272px;
+}
+li{
+    /* margin-left: 40px; */
+    margin: 0 0 15px 40px;
+}
+img{
+    margin-right: 20px;
+}

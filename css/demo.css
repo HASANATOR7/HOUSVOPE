@@ -1,0 +1,31 @@
+.demo{
+    font-family: "Raleway";
+ margin:0;
+background:url(../img/wathc/wathc.png);
+background-size: cover;
+    background-position: center;
+    height: 560px;
+    position:relative;
+}
+
+
+.demo__title{
+    font-family: 'Playfair Display';
+    color:#D4C17F;
+    font-size: 36px;
+}
+.demo__description{
+    font-family: "Raleway";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.demo__content{
+    display: flex;
+    align-items: center;
+   
+}
+.demo__left,
+.demo__right{
+    max-width: 40%;
+}

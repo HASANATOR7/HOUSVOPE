@@ -1,0 +1,13 @@
+.play{
+    display: flex;
+    justify-content: center;
+}
+
+.play__content{
+    background:url(../img/play/video.png);
+    width: 719px;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
